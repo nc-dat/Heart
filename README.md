@@ -1,4 +1,4 @@
-# Wazzup bro Welcome to my Repository - Heart project  
+# Wazzup bro Welcome to my Repository
 
 * You can see this project live at the following URL:
  https://nc-dat.github.io/Earth/
